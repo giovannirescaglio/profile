@@ -1,0 +1,92 @@
+body {
+  background-color: #EBEBEB ;
+  font-family: 'open sans', sans serif;
+  font-weight: 250px ;
+  color: black;
+  font-size: 15px ;
+  line-height: 1.5em;
+}
+
+.image_size {
+width: 200px;
+border-radius: 3px;
+box-shadow: 2px 2px 3px grey;
+}
+
+#circle_image{
+width: 200px;
+height: 200px;
+border-radius: 100px;
+}
+
+h1, h2, h3 {
+font-family: 'Montserrat', sans-serif;
+font-size: 25px;
+line-height: 1.5em;
+color: grey;
+}
+
+a{
+  text-decoration: none;
+  color: #ccc;
+}
+
+a:hover{
+opacity: 0.4
+}
+
+.hoover_title {
+a:hoover: opacity: 0,9;
+}
+
+.container{
+  width: 600px;
+  margin: auto;
+}
+
+
+.cards{
+  text-align: center;
+  padding: 30Px;
+  border-radius: 3px;
+  background-color: white;
+  margin: 25px auto;
+}
+
+.footer-cards{
+  text-align: center;
+  padding: 0Px;
+  border-radius: 3px;
+  background-color: white;
+  margin:auto;
+  height: 136px;
+}
+
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.text-center {
+text-align: center;
+}
+
+.btn-red {
+width: 150px;
+font-height: 200px;
+margin: auto;
+background-color: #D73137;
+border-radius: 10px;
+}
+
+.btn-red a {
+text-align: center;
+color: white;
+padding: 10px ;
+}
+
